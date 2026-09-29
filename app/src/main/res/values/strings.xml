@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">God\'s Eye View</string>
+    <string name="url_prompt">Web URL (Vite host or bundled)</string>
+    <string name="url_load">Load</string>
+</resources>
